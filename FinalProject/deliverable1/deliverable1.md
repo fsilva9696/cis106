@@ -16,20 +16,14 @@ The Raspberry Pi is a small, affordable single-board computer developed in the U
 ### Raspberry Pi Models 
 
  
+| Model          | CPU                          | RAM Options | USB Ports               | Video Output     | Release Year |
+|----------------|------------------------------|-------------|-------------------------|------------------|--------------|
+| Raspberry Pi 1 | ARM1176JZF-S (700 MHz)       | 256–512 MB  | 2 USB 2.0               | HDMI, Composite  | 2012         |
+| Raspberry Pi 2 | Quad-core Cortex-A7 (900 MHz)| 1 GB        | 4 USB 2.0               | HDMI, Composite  | 2015         |
+| Raspberry Pi 3 | Quad-core Cortex-A53 (1.2 GHz)| 1 GB       | 4 USB 2.0               | HDMI             | 2016         |
+| Raspberry Pi 4 | Quad-core Cortex-A72 (1.5 GHz)| 2–8 GB     | 2x USB 2.0, 2x USB 3.0  | 2x micro-HDMI    | 2019         |
+| Raspberry Pi 5 | Quad-core Cortex-A76 (2.4 GHz)| 4–8 GB     | 2x USB 2.0, 2x USB 3.0  | 2x micro-HDMI    | 2023         |
 
-| Model          | CPU                         | RAM Options | USB Ports | Video Output     | Release Year | 
-
-|----------------|-----------------------------|-------------|-----------|------------------|--------------| 
-
-| Raspberry Pi 1 | ARM1176JZF-S (700 MHz)      | 256–512 MB  | 2 USB 2.0 | HDMI, Composite  | 2012         | 
-
-| Raspberry Pi 2 | Quad-core Cortex-A7 (900 MHz)| 1 GB       | 4 USB 2.0 | HDMI, Composite  | 2015         | 
-
-| Raspberry Pi 3 | Quad-core Cortex-A53 (1.2 GHz)| 1 GB      | 4 USB 2.0 | HDMI             | 2016         | 
-
-| Raspberry Pi 4 | Quad-core Cortex-A72 (1.5 GHz)| 2–8 GB    | 2x USB 2.0, 2x USB 3.0 | 2x micro-HDMI | 2019         | 
-
-| Raspberry Pi 5 | Quad-core Cortex-A76 (2.4 GHz)| 4–8 GB    | 2x USB 2.0, 2x USB 3.0 | 2x micro-HDMI | 2023         | 
 
  
 
